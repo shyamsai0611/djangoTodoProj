@@ -22,27 +22,33 @@ The main features used in Django include:
 ## Setup
 
 1. Clone the repo:
-git clone https://github.com/yourusername/django-todo.git
+   
+git clone https://github.com/shyamsai0611/djangoTodoProj.git
 
 
 2. Create a virtual environment and activate it:
+   
 python -m venv env
 source env/bin/activate
 
 
 3. Run makemigrations:
+   
 python manage.py makemigrations
 
 
 4. Run migrations:
+   
 python manage.py migrate
 
 
 5. Create a superuser:
+   
 python manage.py createsuperuser yourname
 
 
 6. Run the development server:
+    
 python manage.py runserver
 
 
