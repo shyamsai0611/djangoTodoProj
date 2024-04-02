@@ -29,6 +29,7 @@ git clone https://github.com/shyamsai0611/djangoTodoProj.git
 2. Create a virtual environment and activate it:
    
 python -m venv env
+
 source env/bin/activate
 
 
