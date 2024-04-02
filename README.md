@@ -60,3 +60,4 @@ python manage.py runserver
 - Browse, create, edit, and delete todo items
 - Mark items as complete/incomplete
 - Filter items by status
+This project helped me in understanding the fundamentals of Django, including models, views, templates, and URLs, which are essential for developing web applications with Django.
